@@ -6,12 +6,12 @@
 
 **Client :** Primero Bank
 
-**Hard Skill / Compétences :**
+**🛠️ Hard Skill / Compétences :**
 
 * **Analyse des données** pour identifier les causes de départs
 * **Excel :** Création et utilisation de tableaux et graphiques croisés dynamiques pour appuyer les analyses
 
-**Soft Skill :**
+**🧠 Soft Skill :**
 
 * **Attitude positive** malgré la faible maitrise initiale du logiciel.
 * **Communication orale claire et précise :** Faire passer un message / présentation accessible et convaincante des résultats répondant aux besoins du client.
@@ -26,14 +26,14 @@
 
 **Client :** Assureur Habitation
 
-**Hard Skill / Compétences :**
+**🛠️ Hard Skill / Compétences :**
 
 * **SGBD :**
     * Charger des données dans une base de données et créer un schéma d'une base de données
     * Identifier les clés primaires et secondaires et réaliser un schéma relationnel
 * **SQL :** Rédiger des scripts et requêtes SQL pour aider à la prise de décision business
 
-**Soft Skill :**
+**🧠 Soft Skill :**
 
 * **Storytelling et communication efficace** face au client.
 * **Autonomie** dans la mise en place de la base et des requêtes
@@ -48,13 +48,13 @@
 
 **Client :** Dev’Immediat
 
-**Hard Skill / Compétences :**
+**🛠️ Hard Skill / Compétences :**
 
 * **Rédaction de recommandations et documentations techniques détaillées**
 * **SQL :** Collecter des données pertinentes en respect des normes et bonnes pratiques
 * **Power Query avec Excel :** Agréger des extractions de données en définissant les règles de nettoyage et d’anonymisation et Pré-traiter des données pour explorer et comprendre leurs caractéristiques
 
-**Soft Skill :**
+**🧠 Soft Skill :**
 
 * **Flexibilité et adaptabilité :** Rédaction de recommandations et de documentations technique détaillés nécessaire à la demande du clients
 * **Prise de décision** en respectant à la fois la confidentialité et les besoins métiers
@@ -69,12 +69,12 @@
 
 **Client :** BestMarket
 
-**Hard Skill / Compétences :**
+**🛠️ Hard Skill / Compétences :**
 
 * **SGBD :** Exploration et manipulation d’une base de données
 * **SQL :** Requêtes pour l'analyse des données afin d'identifier les tendances clés liées à la satisfaction client (Net Promoter Score, retours clients par catégorie et région … )
 
-**Soft Skill :**
+**🧠 Soft Skill :**
 
 * **Écoute active :** Rédaction et reformulation des besoins métier / identification de tendances et d’axes d’amélioration
 * **Responsabilité et intégrité** de bout en bout malgré les pressions de deadline.
@@ -89,14 +89,14 @@
 
 **Client :** BottleNeck
 
-**Hard Skill / Compétences :**
+**🛠️ Hard Skill / Compétences :**
 
 * **Jupyter Notebook**
 * **Python :**
-    * analyse traitement et nettoyage des données basés sur le dataframe (package pandas) : tops références, rotations de stock, taux de marge …
-    * élaboration de graphiques adaptés / visualisation des données (package matplotlib, seaborn, plotly express)
+    * analyse traitement et nettoyage des données basés sur le dataframe (package pandas) : tops références, rotations de stock, taux de marge …
+    * élaboration de graphiques adaptés / visualisation des données (package matplotlib, seaborn, plotly express)
 
-**Soft Skill :**
+**🧠 Soft Skill :**
 
 * **Adaptabilité :** présentation synthétique et discours adapté au Comité de Direction / Recommandations business convaincantes
 * **Efficacité** dans la gestion du temps
@@ -111,19 +111,19 @@
 
 **Client :** Sanitoral
 
-**Hard Skills / Compétences :**
+**🛠️ Hard Skills / Compétences :**
 
 * **Rédaction d’un Product Strategy Canvas** pour identifier les user stories en fonction des besoins client
 * **Power Query :** Nettoyage et transformation des données (langage M)
 * **Power BI :**
-    * Création de visualisations interactives pour le suivi des projets et pour faciliter les décisions :
-        * Cartes : Répartition des projets par pays pour une vue globale.
-        * Diagramme de Gantt : Suivi des délais et avancement des projets.
-        * Jauges : Indicateurs de progression des coûts.
-        * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
-    * **Langage DAX** pour les indicateurs / KPIs
+    * Création de visualisations interactives pour le suivi des projets et pour faciliter les décisions :
+        * Cartes : Répartition des projets par pays pour une vue globale.
+        * Diagramme de Gantt : Suivi des délais et avancement des projets.
+        * Jauges : Indicateurs de progression des coûts.
+        * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
+    * **Langage DAX** pour les indicateurs / KPIs
 
-**Soft Skill :**
+**🧠 Soft Skill :**
 
 * **Adaptabilité :** Récit des résultats avec des procédés narratifs pour dynamiser la présentation
 * **Initiative :** Identification d’axes stratégiques d’amélioration
@@ -140,16 +140,16 @@
 
 **Client :** Les Plus Beaux Logis de Paris
 
-**Hard Skills / Compétences :**
+**🛠️ Hard Skills / Compétences :**
 
 * **Jupyter Notebook**
 * **Machine Learning avec Python :** pandas, matplotlib, seaborn, scikit-learn :
-    * Nettoyage et exploration des données
-    * Réalisation de tests de corrélation pour valider les relations entre variables.
-    * Prédiction des prix avec un modèle de régression linéaire.
-    * Application du clustering K-Means pour classer automatiquement les type biens.
+    * Nettoyage et exploration des données
+    * Réalisation de tests de corrélation pour valider les relations entre variables.
+    * Prédiction des prix avec un modèle de régression linéaire.
+    * Application du clustering K-Means pour classer automatiquement les type biens.
 
-**Soft Skill :**
+**🧠 Soft Skill :**
 
 * **Adaptabilité :** discours adapté pour soutenir des décisions stratégiques dans l’entreprise
 * **Gestion du temps optimisé** et travaille en autonomie
@@ -164,13 +164,13 @@
 
 **Client :** BottleNeck
 
-**Hard Skills / Compétences :**
+**🛠️ Hard Skills / Compétences :**
 
 * **Analyse et proposition de différentes solutions techniques** pour l’extraction, le traitement et la visualisation des données
 * **ETL Power Query et langage M approfondi :** Nettoyage, transformation et enrichissement des données
 * **Power BI et langage DAX approfondi :** Création de tableaux de bord dynamiques et interactifs avec Power BI (vue haut niveau, détail des performance, inflation, stock, nouveau marché..)
 
-**Soft Skill :**
+**🧠 Soft Skill :**
 
 * **Curiosité et écoute active** sur un marché inhabituel.
 * **Autonomie et initiative :** Proposition de différentes recommandations business basées sur des insights clairs.
@@ -185,7 +185,7 @@
 
 **Client :** UOI Games
 
-**Hard Skills / Compétences :**
+**🛠️ Hard Skills / Compétences :**
 
 * **Recherche et collecte d'informations** sur le secteur du jeux video
 * **Elaboration de matrices SWOT et PESTEL**
@@ -193,7 +193,7 @@
 * **Python :** package pandas, matplotlib … pour le nettoyage, le traitement et l’analyse des tendances
 * **Google Forms** pour la création d’un sondage sur un panel de 23 joueurs de jeux Video.
 
-**Soft Skill :**
+**🧠 Soft Skill :**
 
 * **Ouverture à la nouveauté / Adaptabilité** sur un nouveau sujet
 * **Autonomie et initiative** dans la recherche de nouvelles informations non fournie par le clients
