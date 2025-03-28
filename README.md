@@ -93,8 +93,8 @@ Net Promoter Score , retours clients par catégorie et région … )
 * Jupyter Notebook
 
 * Python :
-. analyse traitement et nettoyage des données basés sur le dataframe (package pandas) : tops références, rotations de stock, taux de marge …
-. élaboration de graphiques adaptés / visualisation des données (package matplotlib, seaborn, plotly express)
+  * analyse traitement et nettoyage des données basés sur le dataframe (package pandas) : tops références, rotations de stock, taux de marge …
+  * élaboration de graphiques adaptés / visualisation des données (package matplotlib, seaborn, plotly express)
 
 **Soft Skill :**
 
