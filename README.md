@@ -1,7 +1,5 @@
-# Mes-Projets
 
-
-## 📂 Mes projets 
+# 📂 Mes projets 
 
 ## 📊 Projet 1 : Analyse d'une Vague de Départs Clients pour une Banque
 
