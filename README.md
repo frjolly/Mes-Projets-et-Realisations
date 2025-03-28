@@ -184,4 +184,4 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Livrables et Présentation Client :**
 
-* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/ Ameliorez_les_performances_de_l'entreprise) 
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Ameliorez_les_performances_de_l'entreprise) 
