@@ -3,9 +3,9 @@
 
 ## 📂 Mes projets 
 
-## Projet 1 : Analyse d'une Vague de Départs Clients pour une Banque
+## 📊 Projet 1 : Analyse d'une Vague de Départs Clients pour une Banque
 
-**Mission :** Étude des tendances de départs de la clientèle et mise en place d’un plan d’action pour limiter les départs.
+**🎯 Mission :** Étude des tendances de départs de la clientèle et mise en place d’un plan d’action pour limiter les départs.
 
 **Client :** Primero Bank
 
