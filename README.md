@@ -139,3 +139,28 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Creez_un_tableau_de_bord_dynamique_avec_powerbi ) 
 
+## 📊 Projet 7 : Analyser l’évolution des prix de l’immobilier
+
+**🎯 Mission :** Explorer les prix de l’immobiliers parisiens pour identifier des tendances, prédire la valorisation des actifs de l'entreprise et optimiser les processus de prise de décision grâce aux techniques de clustering et de régression linéaire
+
+**Client :** Les Plus Beaux Logis de Paris
+
+**Hard Skills / Compétences :**
+
+* Jupyter Notebook
+
+* Machine Learning avec Python : pandas, matplotlib, seaborn, scikit-learn :
+ * Nettoyage et exploration des données
+ * Réalisation de tests de corrélation pour valider les relations entre variables.
+ * Prédiction des prix avec un modèle de régression linéaire.
+ * Application du clustering K-Means pour classer automatiquement les type biens.
+
+**Soft Skill :**
+
+* Adaptabilité : discours adapté pour soutenir des décisions stratégiques dans l’entreprise
+* Gestion du temps optimisé et travaille en autonomie 
+
+**Livrables et Présentation Client :**
+
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Analysez_les_prix_de_l'immobilier_avec_python) 
+
