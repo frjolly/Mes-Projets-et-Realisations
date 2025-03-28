@@ -164,3 +164,24 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Analysez_les_prix_de_l'immobilier_avec_python) 
 
+## 📊 Projet 8 : Amélioration les performances de gestion d’un marchand de vin spécialisé
+
+**🎯 Mission :** Mettre à disposition des collaborateurs les données du marchand de vin via un outil de visualisation afin de piloter et d’optimiser les activités de l’entreprise
+
+**Client :** BottleNeck
+
+**Hard Skills / Compétences :**
+
+* Analyse et proposition de différentes solutions techniques pour l’extraction, le traitement et la visualisation des données, 
+
+* ETL Power Query et langage M approfondi : Nettoyage, transformation et enrichissement des données 
+
+*  Power BI et langage DAX approfondi : Création de tableaux de bord dynamiques et interactifs avec Power BI (vue haut niveau, détail des performance, inflation, stock, nouveau marché..)
+
+**Soft Skill :**
+
+* Autonomie et initiative : Proposition de différentes recommandations business basées sur des insights clairs.
+
+**Livrables et Présentation Client :**
+
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/ Ameliorez_les_performances_de_l'entreprise) 
