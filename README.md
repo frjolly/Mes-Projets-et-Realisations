@@ -1,7 +1,7 @@
 
 # 📂 Mes projets 
 
-## 📊 Projet 1 : Analyse d'une Vague de Départs Clients pour une Banque
+## 📊 Projet 1 : Analyse, explication de départs Clients pour une Banque
 
 **🎯 Mission :** Étude des tendances de départs de la clientèle et mise en place d’un plan d’action pour limiter les départs.
 
@@ -9,11 +9,15 @@
 
 **Hard Skill / Compétences :**
 
-* Excel : Création et utilisation de tableaux et graphiques croisés dynamiques
+* Analyse des données pour identifier les causes de départs 
+
+* Excel : Création et utilisation de tableaux et graphiques croisés dynamiques pour appuyer les analyses
 
 **Soft Skill :**
 
-* Faire passer un message / présentation accessible et convaincante des résultats répondant aux besoins du client.
+* Attitude positive malgrès la faible maitrise initiale du logiciel.
+  
+* Communication orale claire et précise: Faire passer un message / présentation accessible et convaincante des résultats répondant aux besoins du client.
 
 **Livrables et Présentation Client :**
 
@@ -35,7 +39,8 @@
 
 **Soft Skill :**
 
-* Storytelling et communication efficace en public
+* Storytelling et communication efficace face au client.
+* Autonomie dans la mise en place de la base et des requêtes
   
 **Livrables et Présentation Client :**
 
@@ -49,13 +54,16 @@
 
 **Hard Skill / Compétences :**
 
+* Rédaction de recommandations et documentations techniques détailléess
+
 * SQL : Collecter des données pertinentes en respect des normes et bonnes pratiques
 
 * Power Query  avec Excel :  Agréger des extractions de données en définissant les règles de nettoyage et d’anonymisation et Pré-traiter des données pour explorer et comprendre leurs caractéristiques
 
 **Soft Skill :**
 
-* Rédaction de recommandations et de documentations techniques claires et détaillées.
+* Flexibilité et adaptabilité: Rédaction de recommandations et de documentations technique détaillés nécessaire à la demande du clients
+  
 * Prise de décision en respectant à la fois la confidentialité et les besoins métiers
 
 **Livrables et Présentation Client :**
@@ -71,12 +79,14 @@
 **Hard Skill / Compétences :**
 
 * SGBD : Exploration et manipulation d’une base de données 
-* SQL : Analyse des données pour identifier les tendances clés liées à la satisfaction client (
+* SQL : Requêtes pour l'analyse des données afin d'identifier les tendances clés liées à la satisfaction client (
 Net Promoter Score , retours clients par catégorie et région … )
 
 **Soft Skill :**
 
-* Rédaction et reformulation des besoins métier / identification de tendances et d’axes d’amélioration 
+* Écoute active : Rédaction et reformulation des besoins métier / identification de tendances et d’axes d’amélioration
+  
+* Responsabilité et intégrité de bout en bout malgrès les pressions de deadline.
 
 **Livrables et Présentation Client :**
 
@@ -98,8 +108,8 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Soft Skill :**
 
-* présentation synthétique et discours adapté au Comité de Direction / Recommandations business convaincantes
-* efficacité dans la gestion du temps
+* Adaptabilité: présentation synthétique et discours adapté au Comité de Direction / Recommandations business convaincantes
+* Efficacité dans la gestion du temps
 
 **Livrables et Présentation Client :**
 
@@ -125,7 +135,7 @@ Net Promoter Score , retours clients par catégorie et région … )
      * Jauges : Indicateurs de progression des coûts.
      * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
 
-  * Langage DAX 
+  * Langage DAX pour les indicateurs / KPIs
 
 
 **Soft Skill :**
@@ -157,7 +167,7 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Soft Skill :**
 
-* Adaptabilité : discours adapté pour soutenir des décisions stratégiques dans l’entreprise
+* Adaptabilité: discours adapté pour soutenir des décisions stratégiques dans l’entreprise
 * Gestion du temps optimisé et travaille en autonomie 
 
 **Livrables et Présentation Client :**
@@ -180,6 +190,7 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Soft Skill :**
 
+* Curiosité et ecoute active sur un marché inhabituel.
 * Autonomie et initiative : Proposition de différentes recommandations business basées sur des insights clairs.
 
 **Livrables et Présentation Client :**
@@ -206,7 +217,7 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Soft Skill :**
 
-* Adaptabilité sur un nouveau sujet  
+* Ouverture à la nouveauté / Adaptabilité sur un nouveau sujet  
 * Autonomie et initiative dans la recherche de nouvelles informations non fournie par le clients
 
 **Livrables et Présentation Client :**
