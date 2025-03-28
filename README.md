@@ -105,3 +105,37 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Optimisez_la_gestion_%26_nettoyez_les_donnes_du_stock_d'une_boutique) 
 
+## 📊 Projet 6 : Création de tableau de bord dynamique avec PowerBI pour visualiser l'avancement des projets
+
+**🎯 Mission :** Création d’un tableau de bord dynamique pour permettre aux équipes de suivre l’avancement des projets, d’identifier les retards et de contrôler les performances.
+
+**Client :** Sanitoral
+
+**Hard Skills / Compétences :**
+
+* Rédaction d’un Product Strategy Canvas pour identifier les user stories en fonction des besoins client
+
+* Power Query : Nettoyage et transformation des données  (langage M) 
+
+* Power BI
+
+Création de visualisations interactives pour  le suivi des projets et pour faciliter les décisions :
+o	Cartes : Répartition des projets par pays pour une vue globale.
+o	Diagramme de Gantt : Suivi des délais et avancement des projets.
+o	Jauges : Indicateurs de progression des coûts.
+o	Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
+
+Langage DAX 
+
+
+**Soft Skill :**
+
+* Adaptabilité : Récit des résultats avec des procédés narratifs pour dynamiser la présentation 
+* Initiative : Identification d’axes stratégiques d’amélioration
+* Fixation d’objectifs personnel
+* Gestion du temps optimisé et travaille en autonomie 
+
+**Livrables et Présentation Client :**
+
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Creez_un_tableau_de_bord_dynamique_avec_powerbi ) 
+
