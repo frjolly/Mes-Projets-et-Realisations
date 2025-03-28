@@ -33,6 +33,7 @@
 
 * SGBD :
   * Charger des données dans une base de données et créer un schéma d'une base de données
+    
   * Identifier les clés primaires et secondaires et réaliser un schéma relationnel
 
 * SQL:  Rédiger des scripts et requêtes SQL pour aider à la prise de décision business
@@ -40,6 +41,7 @@
 **Soft Skill :**
 
 * Storytelling et communication efficace face au client.
+  
 * Autonomie dans la mise en place de la base et des requêtes
   
 **Livrables et Présentation Client :**
@@ -78,7 +80,8 @@
 
 **Hard Skill / Compétences :**
 
-* SGBD : Exploration et manipulation d’une base de données 
+* SGBD : Exploration et manipulation d’une base de données
+  
 * SQL : Requêtes pour l'analyse des données afin d'identifier les tendances clés liées à la satisfaction client (
 Net Promoter Score , retours clients par catégorie et région … )
 
@@ -109,6 +112,7 @@ Net Promoter Score , retours clients par catégorie et région … )
 **Soft Skill :**
 
 * Adaptabilité: présentation synthétique et discours adapté au Comité de Direction / Recommandations business convaincantes
+  
 * Efficacité dans la gestion du temps
 
 **Livrables et Présentation Client :**
@@ -140,9 +144,12 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Soft Skill :**
 
-* Adaptabilité : Récit des résultats avec des procédés narratifs pour dynamiser la présentation 
+* Adaptabilité : Récit des résultats avec des procédés narratifs pour dynamiser la présentation
+  
 * Initiative : Identification d’axes stratégiques d’amélioration
-* Fixation d’objectifs personnel
+  
+* Fixation d’objectifs personnels
+  
 * Gestion du temps optimisé et travaille en autonomie 
 
 **Livrables et Présentation Client :**
@@ -168,6 +175,7 @@ Net Promoter Score , retours clients par catégorie et région … )
 **Soft Skill :**
 
 * Adaptabilité: discours adapté pour soutenir des décisions stratégiques dans l’entreprise
+  
 * Gestion du temps optimisé et travaille en autonomie 
 
 **Livrables et Présentation Client :**
@@ -191,6 +199,7 @@ Net Promoter Score , retours clients par catégorie et région … )
 **Soft Skill :**
 
 * Curiosité et ecoute active sur un marché inhabituel.
+  
 * Autonomie et initiative : Proposition de différentes recommandations business basées sur des insights clairs.
 
 **Livrables et Présentation Client :**
@@ -217,7 +226,8 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Soft Skill :**
 
-* Ouverture à la nouveauté / Adaptabilité sur un nouveau sujet  
+* Ouverture à la nouveauté / Adaptabilité sur un nouveau sujet
+  
 * Autonomie et initiative dans la recherche de nouvelles informations non fournie par le clients
 
 **Livrables et Présentation Client :**
