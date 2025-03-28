@@ -78,5 +78,28 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Livrables et Présentation Client :**
 
-* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Manipulez_une_base_de_donnees_avec_sql) 
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Manipulez_une_base_de_donnees_avec_sql)
+
+## 📊 Projet 5 : Optimisation de la gestion et nettoyage des données du stock d’une boutique
+
+**🎯 Mission :** Nettoyage et analyse des données de stock de bouteilles de vin afin d’identifier des anomalies, proposer des solutions et fournir des analyses pertinentes pour le comité de direction
+
+**Client :** BottleNeck
+
+**Hard Skills / Compétences :**
+
+* Jupyter Notebook
+
+* Python : 
+** analyse traitement et nettoyage des données basés sur le dataframe (package pandas) : tops références, rotations de stock, taux de marge … 
+•	élaboration de graphiques adaptés / visualisation des données (package matplotlib, seaborn, plotly express)
+
+**Soft Skill :**
+
+* présentation synthétique et discours adapté au Comité de Direction / Recommandations business convaincantes
+* efficacité dans la gestion du temps
+
+**Livrables et Présentation Client :**
+
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/ Optimisez_la_gestion_%26_nettoyez_les_donnes_du_stock_d'une_boutique) 
 
