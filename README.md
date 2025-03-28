@@ -13,7 +13,7 @@
 
 **Soft Skill :**
 
-* Attitude positive malgré la faible maitrise initiale du logiciel.
+* **Attitude positive** malgré la faible maitrise initiale du logiciel.
 * **Communication orale claire et précise :** Faire passer un message / présentation accessible et convaincante des résultats répondant aux besoins du client.
 
 **Livrables et Présentation Client :**
