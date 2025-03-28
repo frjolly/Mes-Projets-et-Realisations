@@ -28,8 +28,8 @@
 **Hard Skill / Compétences :**
 
 * SGBD :
-. Charger des données dans une base de données et créer un schéma d'une base de données
-. Identifier les clés primaires et secondaires et réaliser un schéma relationnel
+  * Charger des données dans une base de données et créer un schéma d'une base de données
+  * Identifier les clés primaires et secondaires et réaliser un schéma relationnel
 
 * SQL:  Rédiger des scripts et requêtes SQL pour aider à la prise de décision business
 
