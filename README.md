@@ -7,7 +7,7 @@
 
 **Client :** Primero Bank
 
-**Hard Skills / Compétences :**
+**Hard Skill / Compétences :**
 
 * Excel : Création et utilisation de tableaux et graphiques croisés dynamiques
 
@@ -25,7 +25,7 @@
 
 **Client :** Assureur Habitation
 
-**Hard Skills / Compétences :**
+**Hard Skill / Compétences :**
 
 * SGBD : Charger des données dans une base de données et créer un schéma d'une base de données
 
@@ -45,7 +45,7 @@
 
 **Client :** Dev’Immediat
 
-**Hard Skills / Compétences :**
+**Hard Skill / Compétences :**
 
 * SQL : Collecter des données pertinentes en respect des normes et bonnes pratiques
 
@@ -66,7 +66,7 @@
 
 **Client :** BestMarket
 
-**Hard Skills / Compétences :**
+**Hard Skill / Compétences :**
 
 * SGBD : Exploration et manipulation d’une base de données 
 * SQL : Analyse des données pour identifier les tendances clés liées à la satisfaction client (
@@ -86,7 +86,7 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Client :** BottleNeck
 
-**Hard Skills / Compétences :**
+**Hard Skill / Compétences :**
 
 * Jupyter Notebook
 
