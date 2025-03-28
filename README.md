@@ -184,4 +184,32 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Livrables et Présentation Client :**
 
-* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Ameliorez_les_performances_de_l'entreprise) 
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Ameliorez_les_performances_de_l'entreprise)
+
+## 📊 Projet 9 : Analyse des tendances du marché du jeu vidéo afin de trouver la meilleur opportunité business pour le lancement d’un nouveau  Jeux Vidéo AAA pour un éditeur français.
+
+**🎯 Mission :** Identifier les segments de marché les plus porteurs pour le développement et le lancement d’un premier jeux video AAA 
+
+**Client :** UOI Games
+
+**Hard Skills / Compétences :**
+
+* Recherche et collecte d'informations sur le secteur du jeux video
+
+* Elaboration de matrices SWOT et PESTEL 
+
+* Jupyter Notebook
+
+* Python : package pandas, matplotlib … pour le nettoyage, le traitement et l’analyse des tendances
+ 
+* Google Forms pour la création d’un sondage sur un panel de 23 joueurs de jeux Video.
+
+**Soft Skill :**
+
+* Adaptabilité sur un nouveau sujet  
+* Autonomie et initiative dans la recherche de nouvelles informations non fournie par le clients
+
+**Livrables et Présentation Client :**
+
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Analysez_une_demande_business) 
+
