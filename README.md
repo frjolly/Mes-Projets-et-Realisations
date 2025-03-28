@@ -27,9 +27,9 @@
 
 **Hard Skills / Compétences :**
 
-*SGBD : Charger des données dans une base de données et créer un schéma d'une base de données
+* SGBD : Charger des données dans une base de données et créer un schéma d'une base de données
 
-*SQL:  Rédiger des scripts simples en SQL pour aider à la prise de décision business
+* SQL:  Rédiger des scripts simples en SQL pour aider à la prise de décision business
 
 **Soft Skill :**
 
