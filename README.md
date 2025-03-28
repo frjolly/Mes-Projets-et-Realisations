@@ -19,5 +19,4 @@
 
 **Livrables et Présentation Client :**
 
-* Rapport d’Analyse Primero Bank : [Lien vers le document GitHub](http://....)
-* Présentation Client : [Lien vers le document GitHub](http://....)
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Visualisez_des_donn%C3%A9es_avec_excel)
