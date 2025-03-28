@@ -101,5 +101,5 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 **Livrables et Présentation Client :**
 
-* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/ Optimisez_la_gestion_%26_nettoyez_les_donnes_du_stock_d'une_boutique) 
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Optimisez_la_gestion_%26_nettoyez_les_donnes_du_stock_d'une_boutique) 
 
