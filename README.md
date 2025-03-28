@@ -60,3 +60,23 @@
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Collectez_des_donnes_en_respectant_les_normes_RGPD)
 
+## 📊 Projet 4 : Suivi de la satisfaction client pour une entreprise de grande distribution
+
+**🎯 Mission :** Améliorer la qualité des services en magasin grâce à l’analyse des retours et des avis clients afin de répondre aux besoins métier du Service Client
+
+**Client :** BestMarket
+
+**Hard Skills / Compétences :**
+
+* SGBD : Exploration et manipulation d’une base de données 
+* SQL : Analyse des données pour identifier les tendances clés liées à la satisfaction client (
+Net Promoter Score , retours clients par catégorie et région … )
+
+**Soft Skill :**
+
+* Rédaction et reformulation des besoins métier / identification de tendances et d’axes d’amélioration 
+
+**Livrables et Présentation Client :**
+
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Manipulez_une_base_de_donnees_avec_sql) 
+
