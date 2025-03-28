@@ -119,13 +119,13 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 * Power BI
 
- * Création de visualisations interactives pour  le suivi des projets et pour faciliter les décisions :
-    * Cartes : Répartition des projets par pays pour une vue globale.
-    * Diagramme de Gantt : Suivi des délais et avancement des projets.
-    * Jauges : Indicateurs de progression des coûts.
-    * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
+  * Création de visualisations interactives pour  le suivi des projets et pour faciliter les décisions :
+     * Cartes : Répartition des projets par pays pour une vue globale.
+     * Diagramme de Gantt : Suivi des délais et avancement des projets.
+     * Jauges : Indicateurs de progression des coûts.
+     * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
 
- * Langage DAX 
+  * Langage DAX 
 
 
 **Soft Skill :**
