@@ -38,3 +38,25 @@
 **Livrables et Présentation Client :**
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Requetez_une_base_de_donnees_avec_sql)
+
+## 📊 Projet 3 : Optimisation des données clients (RGPD) pour un courtier automobile
+
+**🎯 Mission :** Accompagner le client  dans la mise en conformité avec le RGPD suite à une sanction de la CNIL, tout en permettant à l’entreprise de poursuivre ses activités commerciales grâce à une collecte et un traitement des données anonymisées.
+
+**Client :** Dev’Immediat
+
+**Hard Skills / Compétences :**
+
+* SQL : Collecter des données pertinentes en respect des normes et bonnes pratiques
+
+* Power Query  avec Excel :  Agréger des extractions de données en définissant les règles de nettoyage et d’anonymisation et Pré-traiter des données pour explorer et comprendre leurs caractéristiques
+
+**Soft Skill :**
+
+* Rédaction de recommandations et de documentations techniques claires et détaillées.
+* Prise de décision en respectant à la fois la confidentialité et les besoins métiers
+
+**Livrables et Présentation Client :**
+
+* [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Collectez_des_donnes_en_respectant_les_normes_RGPD)
+
