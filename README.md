@@ -27,9 +27,11 @@
 
 **Hard Skill / Compétences :**
 
-* SGBD : Charger des données dans une base de données et créer un schéma d'une base de données
+* SGBD :
+ • Charger des données dans une base de données et créer un schéma d'une base de données
+ • Identifier les clés primaires et secondaires et réaliser un schéma relationnel
 
-* SQL:  Rédiger des scripts simples en SQL pour aider à la prise de décision business
+* SQL:  Rédiger des scripts et requêtes SQL pour aider à la prise de décision business
 
 **Soft Skill :**
 
@@ -90,8 +92,8 @@ Net Promoter Score , retours clients par catégorie et région … )
 
 * Jupyter Notebook
 
-* Python : 
-•	analyse traitement et nettoyage des données basés sur le dataframe (package pandas) : tops références, rotations de stock, taux de marge … 
+* Python :
+•	analyse traitement et nettoyage des données basés sur le dataframe (package pandas) : tops références, rotations de stock, taux de marge …
 •	élaboration de graphiques adaptés / visualisation des données (package matplotlib, seaborn, plotly express)
 
 **Soft Skill :**
