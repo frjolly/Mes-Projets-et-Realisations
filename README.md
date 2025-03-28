@@ -158,7 +158,7 @@
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Analysez_les_prix_de_l'immobilier_avec_python)
 
-## 📊 **Projet 8 : Amélioration les performances de gestion d’un marchand de vin spécialisé**
+## 📊 **Projet 8 : Amélioration des performances de gestion d’un marchand de vin spécialisé**
 
 **🎯 Mission :** Mettre à disposition des collaborateurs les données du marchand de vin via un outil de visualisation afin de piloter et d’optimiser les activités de l’entreprise
 
