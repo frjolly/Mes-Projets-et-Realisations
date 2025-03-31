@@ -145,10 +145,10 @@
 
 * **Jupyter Notebook**
 * **Machine Learning avec Python :** pandas, matplotlib, seaborn, scikit-learn :
-    * Nettoyage et exploration des données
-    * Réalisation de tests de corrélation pour valider les relations entre variables.
-    * Prédiction des prix avec un modèle de régression linéaire.
-    * Application du clustering K-Means pour classer automatiquement les type biens.
+   * Nettoyage et exploration des données
+   * Réalisation de tests de corrélation pour valider les relations entre variables.
+   * Prédiction des prix avec un modèle de régression linéaire.
+   * Application du clustering K-Means pour classer automatiquement les type biens.
 
 **🧠 Soft Skill :**
 
