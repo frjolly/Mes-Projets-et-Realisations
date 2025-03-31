@@ -119,7 +119,7 @@
   * Création de visualisations interactives pour le suivi des projets et pour faciliter les décisions :
   * Cartes : Répartition des projets par pays pour une vue globale.
   * Diagramme de Gantt : Suivi des délais et avancement des projets.
-  * Jauges : Indicateurs de progression des coûts.
+  * Jauges : Indicateurs de progression des coûts, Deadline et délivrables
   * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
           
 * **Langage DAX** pour les indicateurs / KPIs
@@ -148,7 +148,7 @@
    * Nettoyage et exploration des données
    * Réalisation de tests de corrélation pour valider les relations entre variables.
    * Prédiction des prix avec un modèle de régression linéaire.
-   * Application du clustering K-Means pour classer automatiquement les type biens.
+   * Application du clustering K-Means pour classer automatiquement les type biens.
 
 **🧠 Soft Skill :**
 
