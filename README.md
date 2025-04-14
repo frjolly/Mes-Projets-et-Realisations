@@ -121,8 +121,13 @@
   * Diagramme de Gantt : Suivi des délais et avancement des projets.
   * Jauges : Indicateurs de progression des coûts, Deadline et délivrables
   * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
-          
+            
 * **Langage DAX** pour les indicateurs / KPIs
+
+  
+<div align="center">
+  <img src="https://github.com/frjolly/Mes-Projets-et-Realisations/blob/main/images/sanito_pbi.jpg" alt="sanito">
+   </div>
 
 **🧠 Soft Skill :**
 
@@ -170,6 +175,10 @@
 * **Analyse et proposition de différentes solutions techniques** pour l’extraction, le traitement et la visualisation des données
 * **ETL Power Query et langage M approfondi :** Nettoyage, transformation et enrichissement des données
 * **Power BI et langage DAX approfondi :** Création de tableaux de bord dynamiques et interactifs avec Power BI (vue haut niveau, détail des performance, inflation, stock, nouveau marché..)
+
+<div align="center">
+  <img src="https://github.com/frjolly/Mes-Projets-et-Realisations/blob/main/images/bottle_pbi.jpg" alt="sanito">
+   </div>
 
 **🧠 Soft Skill :**
 
