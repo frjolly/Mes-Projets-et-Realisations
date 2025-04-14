@@ -189,11 +189,11 @@
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Ameliorez_les_performances_de_l'entreprise)
 
-## 📊 **Projet 9 : Analyse des tendances du marché du jeu vidéo afin de trouver la meilleur opportunité business pour le lancement d’un nouveau Jeux Vidéo AAA pour un éditeur français.**
+## 📊 **Projet 9 : Analyse des tendances du marché du jeux vidéo afin de trouver la meilleur opportunité business pour le lancement d’un nouveau Jeux Vidéo AAA pour un éditeur français.**
 
 **🎯 Mission :** Identifier les segments de marché les plus porteurs pour le développement et le lancement d’un premier jeux video AAA
 
-**Client :** UOI Games
+**Client :** UOI Gamesx
 
 **🛠️ Hard Skills / Compétences :**
 
