@@ -116,11 +116,11 @@
 * **Rédaction d’un Product Strategy Canvas** pour identifier les user stories en fonction des besoins clients.
 * **Power Query :** Nettoyage et transformation des données (langage M).
 * **Power BI :**
-  * Création de visualisations interactives pour le suivi des projets et pour faciliter les décisions.
-  * Cartes : Répartition des projets par pays pour une vue globale.
-  * Diagramme de Gantt : Suivi des délais et avancement des projets.
-  * Jauges : Indicateurs de progression des coûts, Deadline et délivrables
-  * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
+  * Création de visualisations interactives pour le suivi des projets et pour faciliter les décisions:
+     * Cartes : Répartition des projets par pays pour une vue globale.
+     * Diagramme de Gantt : Suivi des délais et avancement des projets.
+     * Jauges : Indicateurs de progression des coûts, Deadline et délivrables
+     * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
             
 * **Langage DAX** pour les indicateurs / KPIs.
 
