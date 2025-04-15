@@ -9,7 +9,7 @@
 **🛠️ Hard Skill / Compétences :**
 
 * **Analyse des données** pour identifier les causes de départs
-* **Excel :** Création et utilisation de tableaux et graphiques croisés dynamiques pour appuyer les analyses
+* **MS Excel :** Création et utilisation de tableaux et graphiques croisés dynamiques pour appuyer les analyses.
 
 **🧠 Soft Skill :**
 
@@ -29,9 +29,9 @@
 **🛠️ Hard Skill / Compétences :**
 
 * **SGBD :**
-    * Charger des données dans une base de données et créer un schéma d'une base de données
-    * Identifier les clés primaires et secondaires et réaliser un schéma relationnel
-* **SQL :** Rédiger des scripts et requêtes SQL pour aider à la prise de décision business
+    * Chargement des données dans une base de données et créer un schéma d'une base de données
+    * Identification des clés primaires / secondaires et réalisation du schéma relationnel
+* **SQL :** Rédaction de scripts et requêtes SQL pour aider à la prise de décision business
 
 **🧠 Soft Skill :**
 
@@ -51,13 +51,13 @@
 **🛠️ Hard Skill / Compétences :**
 
 * **Rédaction de recommandations et documentations techniques détaillées**
-* **SQL :** Collecter des données pertinentes en respect des normes et bonnes pratiques
-* **Power Query avec Excel :** Agréger des extractions de données en définissant les règles de nettoyage et d’anonymisation et Pré-traiter des données pour explorer et comprendre leurs caractéristiques
+* **SQL :** Collecte des données pertinentes en respect des normes et bonnes pratiques RGPD.
+* **MS Power Query avec Excel :** Agrégation d'extractions de données en définissant les règles de nettoyage et d’anonymisation / Pré-traitement de données pour explorer - comprendre leurs caractéristiques.
 
 **🧠 Soft Skill :**
 
 * **Flexibilité et adaptabilité :** Rédaction de recommandations et de documentations technique détaillés nécessaire à la demande du clients
-* **Prise de décision** en respectant à la fois la confidentialité et les besoins métiers
+* **Prise de décision** en respectant à la fois la confidentialité et les besoins métiers.
 
 **Livrables et Présentation Client :**
 
@@ -65,18 +65,18 @@
 
 ## 📊 **Projet 4 : Suivi de la satisfaction client pour une entreprise de grande distribution**
 
-**🎯 Mission :** Améliorer la qualité des services en magasin grâce à l’analyse des retours et des avis clients afin de répondre aux besoins métier du Service Client
+**🎯 Mission :** Améliorer la qualité des services en magasin grâce à l’analyse des retours et des avis clients afin de répondre aux besoins métiers du Service Client.
 
 **Client :** BestMarket
 
 **🛠️ Hard Skill / Compétences :**
 
-* **SGBD :** Exploration et manipulation d’une base de données
-* **SQL :** Requêtes pour l'analyse des données afin d'identifier les tendances clés liées à la satisfaction client (Net Promoter Score, retours clients par catégorie et région … )
+* **SGBD :** Exploration et manipulation d’une base de données SQL.
+* **SQL :** Requêtes pour l'analyse des données afin d'identifier les tendances clés liées à la satisfaction client (Net Promoter Score, retours clients par catégorie / région … )
 
 **🧠 Soft Skill :**
 
-* **Écoute active :** Rédaction et reformulation des besoins métier / identification de tendances et d’axes d’amélioration
+* **Écoute active :** Rédaction et reformulation des besoins métiers / identification de tendances et d’axes d’amélioration.
 * **Responsabilité et intégrité** de bout en bout malgré les pressions de deadline.
 
 **Livrables et Présentation Client :**
@@ -85,7 +85,7 @@
 
 ## 📊 **Projet 5 : Optimisation de la gestion et nettoyage des données du stock d’une boutique**
 
-**🎯 Mission :** Nettoyage et analyse des données de stock de bouteilles de vin afin d’identifier des anomalies, proposer des solutions et fournir des analyses pertinentes pour le comité de direction
+**🎯 Mission :** Nettoyage et analyse des données de stock de bouteilles de vin afin d’identifier des anomalies, proposer des solutions et fournir des analyses pertinentes pour le comité de direction.
 
 **Client :** BottleNeck
 
@@ -93,7 +93,7 @@
 
 * **Jupyter Notebook**
 * **Python :**
-   * analyse traitement et nettoyage des données basés sur le dataframe (package pandas) : tops références, rotations de stock, taux de marge …
+   * analyse, traitement et nettoyage des données basés sur le dataframe (package pandas) : tops références, rotations de stock, taux de marge …
    * élaboration de graphiques adaptés / visualisation des données (package matplotlib, seaborn, plotly express)
 
 **🧠 Soft Skill :**
@@ -105,7 +105,7 @@
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Optimisez_la_gestion_%26_nettoyez_les_donnes_du_stock_d'une_boutique)
 
-## 📊 **Projet 6 : Création de tableau de bord dynamique avec PowerBI pour visualiser l'avancement des projets**
+## 📊 **Projet 6 : Création de tableau de bord dynamique avec Power BI pour visualiser l'avancement des projets**
 
 **🎯 Mission :** Création d’un tableau de bord dynamique pour permettre aux équipes de suivre l’avancement des projets, d’identifier les retards et de contrôler les performances.
 
@@ -113,16 +113,16 @@
 
 **🛠️ Hard Skills / Compétences :**
 
-* **Rédaction d’un Product Strategy Canvas** pour identifier les user stories en fonction des besoins client
-* **Power Query :** Nettoyage et transformation des données (langage M)
+* **Rédaction d’un Product Strategy Canvas** pour identifier les user stories en fonction des besoins clients.
+* **Power Query :** Nettoyage et transformation des données (langage M).
 * **Power BI :**
-  * Création de visualisations interactives pour le suivi des projets et pour faciliter les décisions :
+  * Création de visualisations interactives pour le suivi des projets et pour faciliter les décisions.
   * Cartes : Répartition des projets par pays pour une vue globale.
   * Diagramme de Gantt : Suivi des délais et avancement des projets.
   * Jauges : Indicateurs de progression des coûts, Deadline et délivrables
   * Alerte visuelle : Mise en forme conditionnelle pour identifier rapidement les retards critiques.
             
-* **Langage DAX** pour les indicateurs / KPIs
+* **Langage DAX** pour les indicateurs / KPIs.
 
   
 <div align="center">
@@ -131,18 +131,18 @@
 
 **🧠 Soft Skill :**
 
-* **Adaptabilité :** Récit des résultats avec des procédés narratifs pour dynamiser la présentation
-* **Initiative :** Identification d’axes stratégiques d’amélioration
+* **Adaptabilité :** Récit des résultats avec des procédés narratifs pour dynamiser la présentation.
+* **Initiative :** Identification d’axes stratégiques d’amélioration.
 * **Fixation d’objectifs personnels**
-* **Gestion du temps optimisé** et travaille en autonomie
+* **Gestion du temps optimisé** et travaille en autonomie.
 
 **Livrables et Présentation Client :**
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Creez_un_tableau_de_bord_dynamique_avec_powerbi)
 
-## 📊 **Projet 7 : Analyser l’évolution des prix de l’immobilier**
+## 📊 **Projet 7 : Analyse de l’évolution des prix de l’immobilier**
 
-**🎯 Mission :** Explorer les prix de l’immobiliers parisiens pour identifier des tendances, prédire la valorisation des actifs de l'entreprise et optimiser les processus de prise de décision grâce aux techniques de clustering et de régression linéaire
+**🎯 Mission :** Explorer les prix de l’immobiliers parisiens pour identifier des tendances, prédire la valorisation des actifs de l'entreprise et optimiser les processus de prise de décision grâce aux techniques de clustering et de régression linéaire.
 
 **Client :** Les Plus Beaux Logis de Paris
 
@@ -150,10 +150,10 @@
 
 * **Jupyter Notebook**
 * **Machine Learning avec Python :** pandas, matplotlib, seaborn, scikit-learn :
-   * Nettoyage et exploration des données
+   * Nettoyage et exploration des données.
    * Réalisation de tests de corrélation pour valider les relations entre variables.
    * Prédiction des prix avec un modèle de régression linéaire.
-   * Application du clustering K-Means pour classer automatiquement les type biens.
+   * Application du clustering K-Means pour classer automatiquement les types de biens.
 
 **🧠 Soft Skill :**
 
@@ -166,14 +166,14 @@
 
 ## 📊 **Projet 8 : Amélioration des performances de gestion d’un marchand de vin spécialisé**
 
-**🎯 Mission :** Mettre à disposition des collaborateurs les données du marchand de vin via un outil de visualisation afin de piloter et d’optimiser les activités de l’entreprise
+**🎯 Mission :** Mettre à disposition des collaborateurs les données du marchand de vin via un outil de visualisation afin de piloter et d’optimiser les activités de l’entreprise.
 
 **Client :** BottleNeck
 
 **🛠️ Hard Skills / Compétences :**
 
-* **Analyse et proposition de différentes solutions techniques** pour l’extraction, le traitement et la visualisation des données
-* **ETL Power Query et langage M approfondi :** Nettoyage, transformation et enrichissement des données
+* **Analyse et proposition de différentes solutions techniques** pour l’extraction, le traitement et la visualisation des données.
+* **ETL Power Query et langage M approfondi :** Nettoyage, transformation et enrichissement des données.
 * **Power BI et langage DAX approfondi :** Création de tableaux de bord dynamiques et interactifs avec Power BI (vue haut niveau, détail des performance, inflation, stock, nouveau marché..)
 
 <div align="center">
@@ -191,22 +191,22 @@
 
 ## 📊 **Projet 9 : Analyse des tendances du marché du jeux vidéo afin de trouver la meilleur opportunité business pour le lancement d’un nouveau Jeux Vidéo AAA pour un éditeur français.**
 
-**🎯 Mission :** Identifier les segments de marché les plus porteurs pour le développement et le lancement d’un premier jeux video AAA
+**🎯 Mission :** Identifier les segments de marché les plus porteurs pour le développement et le lancement d’un premier jeux video AAA.
 
 **Client :** UOI Gamesx
 
 **🛠️ Hard Skills / Compétences :**
 
-* **Recherche et collecte d'informations** sur le secteur du jeux video
+* **Recherche et collecte d'informations** dans le secteur du jeux video.
 * **Elaboration de matrices SWOT et PESTEL**
 * **Jupyter Notebook**
-* **Python :** package pandas, matplotlib … pour le nettoyage, le traitement et l’analyse des tendances
+* **Python :** package pandas, matplotlib ... pour le nettoyage, le traitement et l’analyse des tendances.
 * **Google Forms** pour la création d’un sondage sur un panel de 23 joueurs de jeux Video.
 
 **🧠 Soft Skill :**
 
-* **Ouverture à la nouveauté / Adaptabilité** sur un nouveau sujet
-* **Autonomie et initiative** dans la recherche de nouvelles informations non fournie par le clients
+* **Ouverture à la nouveauté / Adaptabilité** sur un nouveau sujet.
+* **Autonomie et initiative** dans la recherche de nouvelles informations non fournie par le clients.
 
 **Livrables et Présentation Client :**
 
