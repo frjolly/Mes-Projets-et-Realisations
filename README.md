@@ -210,3 +210,13 @@
 **Livrables et Présentation Client :**
 
 * [Rapport d’Analyse et Présentation Client](https://github.com/frjolly/Archive/tree/main/Analysez_une_demande_business)
+
+## 📊 **Extraits d'autres Réalisations:**
+
+🎥 **Session de présentation de création de graphiques sur Power BI [video](https://youtu.be/BdtM3XaFG-0)**
+
+📊 **Tableau de Bord de veille Technologique BI**
+
+![aero](https://github.com/frjolly/frjolly/blob/main/images/VeilleAero2.jpg)
+
+
